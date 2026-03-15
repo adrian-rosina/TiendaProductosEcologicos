@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "dayjs": "^1.11.19",
+    "express": "^5.2.1",
+    "file": "^0.2.2",
+    "system": "^2.0.1"
+  },
+  "name": "productosecologicos",
+  "version": "1.0.0",
+  "description": "Descripción:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JorgeSanchezGallego/ProductosEcologicos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/JorgeSanchezGallego/ProductosEcologicos/issues"
+  },
+  "homepage": "https://github.com/JorgeSanchezGallego/ProductosEcologicos#readme"
+}
